@@ -1,0 +1,35 @@
+Author: Abhi Gudimella
+Email: gudimella@chapman.edu
+Class: CPSC 350-04 Spring 2023
+Assignment: Assignment 4
+
+Source files:
+    Configuration.h
+    Configuration.cpp
+
+    Customer.h 
+    Customer.cpp 
+
+    Office.h 
+    Office.cpp
+
+    ServiceCenter.h
+    ServiceCenter.cpp
+
+    Window.h
+    Window.cpp
+    
+    TDoublyLinkedList.h
+    TListDoubleNode.h
+    
+    TListQueue.h
+    TListSingleNode.h
+
+    main.cpp
+
+Input File:
+    input.txt
+
+Terminal commands to run the program (with the gnu c++ compiler installed):
+    g++ -o main *.cpp
+    ./main input.txt
